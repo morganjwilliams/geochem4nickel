@@ -1,0 +1,19 @@
+name: geochem4nickel
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.7
+  - pip
+  - matplotlib=3.0.3
+  - umap-learn
+  - ipympl
+  - ipyvolume
+  - widgetsnbextension
+  - imagemagick
+  - pip:
+      - rise
+      - jupyter_contrib_nbextensions
+      - pyrolite[skl]
