@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+*.aux
+
+*.blg
+
+*.out
+
+*.synctex
+
+*.synctex.gz
+
+*.pptx
