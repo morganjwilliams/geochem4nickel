@@ -14,19 +14,19 @@ to be held at the Australian Resources Research Centre on the 25<sup>th</sup> Oc
 
 **Intro**
 <br>
-[Start](0.0_StartHere.ipynb) • [Intro](1.1_Introduction.ipynb) • [Data Driven Geochem Understanding](1.2_DataDrivenGeochem.ipynb) • [Data Science and Exploration Questions](1.3_ExplorationDataScience.ipynb)
+[Start](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/0.0_StartHere.ipynb) • [Intro](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/1.1_Introduction.ipynb) • [Data Driven Geochem Understanding](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/1.2_DataDrivenGeochem.ipynb) • [Data Science and Exploration Questions](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/1.3_ExplorationDataScience.ipynb)
 <br>
 **pyrolite**
 <br>
-[Geochem](2.1_pyroliteGeochem.ipynb) • [Visualisation](2.2_pyroliteVis.ipynb) • [alphaMelts](2.3_pyroliteMELTS.ipynb)
+[Geochem](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.1_pyroliteGeochem.ipynb) • [Visualisation](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.2_pyroliteVis.ipynb) • [alphaMelts](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.3_pyroliteMELTS.ipynb)
 <br>
 **Comparative Geochem**
 <br>
-[Data Sources & Data Mining](3.1_ComparativeGeochemData.ipynb) • [Deriving Context](3.2_ComparativeGeochemContext.ipynb)
+[Data Sources & Data Mining](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/3.1_ComparativeGeochemData.ipynb) • [Deriving Context](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/3.2_ComparativeGeochemContext.ipynb)
 <br>
 **Machine Learning**
 <br>
-[Features](4.1_Features.ipynb) • [Dimensional Reduction](4.2_DimReduction.ipynb) • [High-D Vis](4.3_HighDVis.ipynb) • [Classification](4.4_Classification.ipynb) • [Regression & Prediction](4.5_Regression.ipynb) • [Clustering](4.6_Clustering.ipynb)
+[Features](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.1_Features.ipynb) • [Dimensional Reduction](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.2_DimReduction.ipynb) • [High-D Vis](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.3_HighDVis.ipynb) • [Classification](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.4_Classification.ipynb) • [Regression & Prediction](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.5_Regression.ipynb) • [Clustering](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.6_Clustering.ipynb)
 <br>
 **GitHub**
 <br>
