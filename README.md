@@ -26,6 +26,7 @@ to be held at the Australian Resources Research Centre on the 25<sup>th</sup> Oc
 <br>
 **Machine Learning**
 <br>
+[Intro](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.0_MachineLearning.ipynb) •
 [Features](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.1_Features.ipynb) • [Dimensional Reduction](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.2_DimReduction.ipynb) • [High-D Vis](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.3_HighDVis.ipynb) • [Classification](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.4_Classification.ipynb) • [Regression & Prediction](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.5_Regression.ipynb) • [Clustering](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.6_Clustering.ipynb)
 <br>
 **GitHub**
