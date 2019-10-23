@@ -17,4 +17,4 @@ dependencies:
   - pip:
       - rise
       - jupyter_contrib_nbextensions
-      - pyrolite[skl]
+      - -e git+git://github.com/morganjwilliams/pyrolite.git@develop#egg=pyrolite[skl]
