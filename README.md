@@ -18,7 +18,7 @@ to be held at the Australian Resources Research Centre on the 25<sup>th</sup> Oc
 <br>
 **pyrolite**
 <br>
-[Geochem](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.1_pyroliteGeochem.ipynb) • [Visualisation](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.2_pyroliteVis.ipynb) • [alphaMelts](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.3_pyroliteMELTS.ipynb)
+[Geochem](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.1_pyroliteGeochem.ipynb) • [Visualisation](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.2_pyroliteVis.ipynb) • [pyrolite + alphaMELTS](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.3_pyroliteMELTS.ipynb)
 <br>
 **Comparative Geochem**
 <br>
