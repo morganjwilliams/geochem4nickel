@@ -14,7 +14,7 @@ to be held at the Australian Resources Research Centre on the 25<sup>th</sup> Oc
 
 **Intro**
 <br>
-[Start](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/0.0_StartHere.ipynb) • [Intro](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/1.1_Introduction.ipynb) • [Data Driven Geochem Understanding](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/1.2_DataDrivenGeochem.ipynb) • [Data Science and Exploration Questions](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/1.3_ExplorationDataScience.ipynb)
+[Start](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/0.0_StartHere.ipynb) • [Intro](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/1.1_Introduction.ipynb)
 <br>
 **pyrolite**
 <br>
@@ -22,7 +22,7 @@ to be held at the Australian Resources Research Centre on the 25<sup>th</sup> Oc
 <br>
 **Comparative Geochem**
 <br>
-[Data Sources & Data Mining](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/3.1_ComparativeGeochemData.ipynb) • [Deriving Context](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/3.2_ComparativeGeochemContext.ipynb)
+[Databases, Data Mining & Deriving Context](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/3.1_ComparativeGeochem.ipynb)
 <br>
 **Machine Learning**
 <br>
