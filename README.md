@@ -20,10 +20,6 @@ to be held at the Australian Resources Research Centre on the 25<sup>th</sup> Oc
 <br>
 [Geochem](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.1_pyroliteGeochem.ipynb) • [Visualisation](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.2_pyroliteVis.ipynb) • [pyrolite + alphaMELTS](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.3_pyroliteMELTS.ipynb) • [lambdas](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/2.4_lambdas.ipynb)
 <br>
-**Comparative Geochem**
-<br>
-[Databases, Data Mining & Deriving Context](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/3.1_ComparativeGeochem.ipynb)
-<br>
 **Machine Learning**
 <br>
 [Intro](https://mybinder.org/v2/gh/morganjwilliams/geochem4nickel/develop?filepath=/notebooks/4.0_MachineLearning.ipynb) •
