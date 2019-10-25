@@ -1,0 +1,20 @@
+name: geochem4nickel
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.7
+  - pip
+  - matplotlib=3.0.3
+  - umap-learn
+  - ipympl
+  - ipyvolume
+  - widgetsnbextension
+  - imagemagick
+  - jupytext
+  - pip:
+      - rise
+      - jupyter_contrib_nbextensions
+      - -e git+git://github.com/morganjwilliams/pyrolite.git@develop#egg=pyrolite[skl]
